@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.nome{
+    padding-top: 25px;
+}
 .fundo{
+    
     background-image: linear-gradient(45deg , black , crimson);
     height: 100vh;
     color: white;
